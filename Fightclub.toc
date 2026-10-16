@@ -2,6 +2,7 @@
 ## Title: Fightclub |cffff8000[BETA]|r
 ## Notes: Duel leaderboards and ranks for Fightclub members.
 ## Author: Anthony Delay
+## X-Website: https://github.com/delaysoftware/fightclub-forever
 ## Version: 0.8.0
 ## IconTexture: Interface\AddOns\Fightclub\Media\icon
 ## SavedVariables: FightclubDB
