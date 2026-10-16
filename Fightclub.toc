@@ -1,0 +1,32 @@
+﻿## Interface: 16001
+## Title: Fightclub |cffff8000[BETA]|r
+## Notes: Duel leaderboards and ranks for Fightclub members.
+## Author: Anthony Delay
+## Version: 0.8.0
+## IconTexture: Interface\AddOns\Fightclub\Media\icon
+## SavedVariables: FightclubDB
+
+Core.lua
+CharData.lua
+Rating.lua
+Members.lua
+Boost.lua
+DuelParse.lua
+NetCore.lua
+Net.lua
+Comm.lua
+Duel.lua
+UI.lua
+Home.lua
+HomeCodec.lua
+HomeNet.lua
+HomeUI.lua
+Ban.lua
+BanCodec.lua
+BanNet.lua
+Rules.lua
+Brawl.lua
+MinimapButton.lua
+Menu.lua
+Badges.lua
+Discovery.lua
